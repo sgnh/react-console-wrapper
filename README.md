@@ -16,7 +16,7 @@ const MyComponent = () => (
     <Console log="Second log message" />
     <Console log={2 + 2} />
     <Console log={`Template literals ${myConst}`} />
-    <Console log="Info message" />
+    <Console info="Info message" />
     <Console error="Error message" />
   </div>
 )

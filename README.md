@@ -7,7 +7,7 @@ react-console-wrapper wraps the console so you can log messages from your render
 npm install --save react-console-wrapper
 ```
 
-### Example:
+## Example:
 ```javascript
 import Console from 'react-console-wrapper';
 
